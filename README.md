@@ -24,7 +24,7 @@ From source
 
 `make`
 
-`udo make install`
+`sudo make install`
 
 `sudo ldconfig`
 
