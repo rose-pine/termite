@@ -5,11 +5,13 @@ In this repository you'll be able to use Rosé Pine color scheme in termite, how
 
 # Termite Installation
 AUR
+
 `yay -S termite
 `
 
 
 APT
+
 `sudo apt update
 
 sudo apt install build-essential
