@@ -13,40 +13,40 @@ AUR
 From source
 
 
-sudo apt update
+`sudo apt update`
 
-sudo apt install build-essential
+`sudo apt install build-essential`
 
-sudo apt-get install -y git g++ libgtk-3-dev gtk-doc-tools gnutls-bin valac intltool libpcre2-dev libglib3.0-cil-dev libgnutls28-dev libgirepository1.0-dev libxml2-utils gperf
+`sudo apt-get install -y git g++ libgtk-3-dev gtk-doc-tools gnutls-bin valac intltool libpcre2-dev libglib3.0-cil-dev libgnutls28-dev libgirepository1.0-dev libxml2-utils gperf`
 
-git clone --recursive https://github.com/thestinger/termite.git
-cd termite
+`git clone --recursive https://github.com/thestinger/termite.git`
+`cd termite`
 
-make
+`make`
 
-sudo make install
+`udo make install`
 
-sudo ldconfig
+`sudo ldconfig`
 
-sudo mkdir -p /lib/terminfo/x
+`sudo mkdir -p /lib/terminfo/x`
 
-sudo ln -s /usr/local/share/terminfo/x/xterm-termite /lib/terminfo/x/xterm-termite
+`sudo ln -s /usr/local/share/terminfo/x/xterm-termite /lib/terminfo/x/xterm-termite`
 
-sudo update-alternatives --install /usr/bin/x-terminal-emulator x-terminal-emulator /usr/local/bin/termite 60
+`sudo update-alternatives --install /usr/bin/x-terminal-emulator x-terminal-emulator /usr/local/bin/termite 60`
 
 # Font
 In order to use this config, you must have FiraCode Nerd Font, here's how to install it.
 
 Install the .zip file called FiraCode Nerd Font from https://www.nerdfonts.com/font-downloads
-mkdir ~/.local/share/fonts/
+`mkdir ~/.local/share/fonts/`
 
-cp ~/Downloads/FiraCode.zip ~/.local/share/fonts/
+`cp ~/Downloads/FiraCode.zip ~/.local/share/fonts/`
 
-cd ~/.local/share/fonts/
+`cd ~/.local/share/fonts/`
 
-unzip FiraCode.zip
+`unzip FiraCode.zip`
 
-fc-cache -fv
+`fc-cache -fv`
 
 # Cloning this repository 
 `git clone https://github.com/rose-pine/termite.git
