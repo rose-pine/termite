@@ -12,7 +12,7 @@ All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 
 Put into `.config/termite/config` on Linux/macOS.
 
-### Screenshots
+## Screenshots
 
 Fetch featured below is [NerdFetch](https://github.com/thatonecalculator/nerdfetch)
 
