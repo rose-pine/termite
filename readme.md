@@ -17,6 +17,4 @@
 
 ## Gallery
 
-Fetch featured below is [NerdFetch](https://github.com/thatonecalculator/nerdfetch)
-
 ![Termite with Rosé Pine](https://cdn.discordapp.com/attachments/608697372054126594/775846089504718879/unknown.png)
