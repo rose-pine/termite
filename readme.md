@@ -13,8 +13,11 @@
 
 ## Usage
 
-1. Add `config` to `~/.config/termite/config`
+1. Move `rose-pine`, `rose-pine-dawn`, or `rose-pine-moon` to `~/.config/termite/`
 
 ## Gallery
 
-![Termite with Rosé Pine](https://cdn.discordapp.com/attachments/608697372054126594/775846089504718879/unknown.png)
+![Rosé Pine](https://cdn.discordapp.com/attachments/743573851685912629/806310828730744912/unknown.png)
+![Moon](https://cdn.discordapp.com/attachments/743573851685912629/806310828730744912/unknown.png)
+![Dawn](https://cdn.discordapp.com/attachments/743573851685912629/806314865093378088/unknown.png)
+
