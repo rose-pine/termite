@@ -18,6 +18,6 @@
 ## Gallery
 
 ![Rosé Pine](https://cdn.discordapp.com/attachments/743573851685912629/806310828730744912/unknown.png)
-![Moon](https://cdn.discordapp.com/attachments/743573851685912629/806310828730744912/unknown.png)
+![Moon](https://cdn.discordapp.com/attachments/743573851685912629/806314102879158302/unknown.png)
 ![Dawn](https://cdn.discordapp.com/attachments/743573851685912629/806314865093378088/unknown.png)
 
